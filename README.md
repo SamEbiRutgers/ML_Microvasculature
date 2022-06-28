@@ -1,5 +1,5 @@
 # ML_Microvasculature
-Code1-Time_Averaged_Volume_Flow_Rate: in this code time-averaged volume flow rate can be obtained: A input and output data are read and an ANN model is generated on the given dataset therefore it can be used for the prediction of any other microvasculature 
+Code1-Time_Averaged_Volume_Flow_Rate: In this code time-averaged volume flow rate can be obtained: A input and output data are read and an ANN model is generated on the given dataset therefore it can be used for the prediction of any other microvasculature 
 
 Code2-Time-Avaraged_Hematocirt: Time-averaged hematocrit is calculated. ANN models are built for the prediction of cell motion through the microvascular network and finally, N number of cells are released at the entrance of the biggest artery these models are used to predict flux of RBC at each bifurcation and finnaly time-averaged hematocrit can be estimated throughout the vasculature.
 
