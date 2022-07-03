@@ -6,3 +6,5 @@ Code2-Time-Avaraged_Hematocirt: Time-averaged hematocrit is calculated. ANN mode
 Code3-Time_Dependent_Prediction: Here,time series can be predicted using the time windows approach. 
 
 Code4-Prediction of simultaneous spatial and temporal variations: Spatially and temporally hematocrit and volume flow rate are evaluated in this code. Here we first predict the time variation of quantities such as volume flow rate and hematocrit in the mother vessel using methods described in Code3 and then models are generated for the prediction of volume flow rate and hematocrit from the mother vessel. 
+
+Data file: It contains the tarinig and test input and output. you can use this data to run the Code1-Time_Averaged_Volume_Flow_Rate.ipynb
